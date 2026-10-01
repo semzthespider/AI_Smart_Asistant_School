@@ -1,0 +1,6 @@
+{
+  "name": "Tracker Kebiasaan Harian",
+  "description": "Aplikasi web interaktif untuk membangun rutinitas positif, melacak kebiasaan harian, streak konsistensi, dan statistik produktivitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
